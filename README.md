@@ -1,1 +1,4 @@
-# careermatch-ux-case-study
+# CareerMatch: AI Resume Optimizer — UX Case Study
+This portfolio webpage documents the end-to-end UX design and evaluation of CareerMatch, an AI-powered resume optimization mobile app designed for early-career job seekers. The project was completed as part of INFO 7375: User Experience in the Era of Generative AI at Northeastern University (Spring 2026).
+The case study covers the full design research lifecycle — from an AI-assisted heuristic evaluation identifying 18 usability issues across 5 core task flows, through iterative prototype redesign using Figma and Stitch AI, to a remote moderated usability study with 5 participants that achieved a 100% task completion rate and a 9.3/10 mean usability score.
+The webpage includes before/after design decisions, real usability testing insights with direct impact on prototype changes, quantitative findings visualized using Claude Artifacts and Chart.js, and a reflection on how AI tools including Claude, ChatGPT, Stitch AI, and Otter.ai were used throughout the research and design process.
